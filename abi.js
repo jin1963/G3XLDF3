@@ -1,1 +1,0 @@
-// abi.js placeholder for G3X smart contract ABI
