@@ -1,0 +1,1 @@
+// script.js placeholder for G3X staking
